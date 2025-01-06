@@ -26,7 +26,7 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 29
-    namespace 'com.example.flutter_libserialport'
+    namespace 'org.sigrok.flutter_libserialport'
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
     }
